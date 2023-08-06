@@ -1,1 +1,1 @@
-# CODSOFT this is an task repository for my internship at CODSOFT
+This is an task repository for my internship at CODSOFT
